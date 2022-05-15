@@ -52,7 +52,7 @@ Datorita faptului ca se apropie sezonul calduros, m-am gandit sa realizez o apli
 
 
 4.	Flux de date
-5.	
+	
 -	Exemple de request/response si metode HTTP
 
 https://i.postimg.cc/64hPFSzn/reqres.png
